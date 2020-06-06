@@ -1,0 +1,1 @@
+node gmail.js "details.json" "brahmtejsingh768@gmail.com" "Demo!!" "Hi this is a demo mail."
